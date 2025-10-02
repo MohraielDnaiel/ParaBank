@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project automates core banking scenarios for the **ParaBank demo site** using **Selenium**, **TestNG**, **Java**, and integrates **video screen recording** for each test execution.
+This project automates core banking scenarios for the **ParaBank demo site** using **Selenium**, **TestNG**, **Java** 
 
 The framework covers a wide range of functionalities:
 
@@ -46,6 +46,38 @@ Other features include:
 ---
 
 ## Project Structure
+
+
+BaraBank/
+├── src/
+│   ├── main/
+│   │   └── java/
+│   │       ├── pages/
+│   │       │   ├── AccountOverviewPage.java
+│   │       │   ├── BillPayPage.java
+│   │       │   ├── LoginPage.java
+│   │       │   ├── OpenNewAccountPage.java
+│   │       │   ├── RegisterPage.java
+│   │       │   └── TransferFundsPage.java
+│   │       └── utilities/
+│   │           ├── ConfigReader.java
+│   │           ├── CSVFileManager.java
+│   │           ├── ExcelFileManager.java
+│   │           ├── JsonFileManager.java
+│   │           ├── data.json
+│   │           ├── invalidPillDatajson.json
+│   │           └── validPillData.json
+│   ├── test/
+│   │   └── java/
+│   │       ├── utilities/
+│   │       │   ├── RetryAnalyzer.java
+│   │       │   └── RetryListener.java
+│   │       ├── Base.java
+│   │       ├── BillPayTest.java
+│   │       ├── LoginTest.java
+│   │       └── OpenNewAccountTest.java
+├── resources/
+└── README.md
 
 
 
