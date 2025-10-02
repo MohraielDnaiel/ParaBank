@@ -1,0 +1,99 @@
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = Mohra, Expected valid = true
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = Mohra, Expected valid = true
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = Mohra, Expected valid = true
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = Danial, Expected valid = true
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = Danial, Expected valid = true
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = Danial, Expected valid = true
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = user2, Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = user2, Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = user2, Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = invalidUser, Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = invalidUser, Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = invalidUser, Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = , Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = , Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = , Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = lolo, Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = lolo, Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = lolo, Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = , Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = , Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = , Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username =  lolo , Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username =  lolo , Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username =  lolo , Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = lolo, Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = lolo, Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = lolo, Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = LOLO, Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = LOLO, Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = LOLO, Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = lolo, Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = lolo, Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = lolo, Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = '; DROP TABLE users; --, Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = '; DROP TABLE users; --, Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = '; DROP TABLE users; --, Expected valid = false
+2025-10-02 23:13:43 INFO  [LoginTest] Starting login test with: Username = <script>alert(1)</script>, Expected valid = false
+2025-10-02 23:13:44 INFO  [LoginTest] Starting login test with: Username = <script>alert(1)</script>, Expected valid = false
+2025-10-02 23:13:44 INFO  [LoginTest] Starting login test with: Username = <script>alert(1)</script>, Expected valid = false
+2025-10-02 23:13:47 INFO  [OpenNewAccountTest] Starting test: Open New Checking Account
+2025-10-02 23:13:47 INFO  [OpenNewAccountTest] Logging in with username: lolo
+2025-10-02 23:13:48 INFO  [OpenNewAccountTest] Navigating to 'Open New Account' page
+2025-10-02 23:13:55 INFO  [OpenNewAccountTest] Starting test: Open New Checking Account
+2025-10-02 23:13:55 INFO  [OpenNewAccountTest] Logging in with username: lolo
+2025-10-02 23:13:55 INFO  [OpenNewAccountTest] Navigating to 'Open New Account' page
+2025-10-02 23:14:02 INFO  [OpenNewAccountTest] Starting test: Open New Checking Account
+2025-10-02 23:14:02 INFO  [OpenNewAccountTest] Logging in with username: lolo
+2025-10-02 23:14:02 INFO  [OpenNewAccountTest] Navigating to 'Open New Account' page
+2025-10-02 23:14:09 INFO  [TransferFundsTest] Starting transfer test with data - Amount: 200, From: 16785, To: 54321
+2025-10-02 23:14:09 INFO  [TransferFundsTest] Logging in with user: lolo
+2025-10-02 23:14:09 INFO  [TransferFundsTest] Entering transfer details
+2025-10-02 23:14:16 INFO  [TransferFundsTest] Starting transfer test with data - Amount: 200, From: 16785, To: 54321
+2025-10-02 23:14:16 INFO  [TransferFundsTest] Logging in with user: lolo
+2025-10-02 23:14:17 INFO  [TransferFundsTest] Entering transfer details
+2025-10-02 23:14:23 INFO  [TransferFundsTest] Starting transfer test with data - Amount: 200, From: 16785, To: 54321
+2025-10-02 23:14:23 INFO  [TransferFundsTest] Logging in with user: lolo
+2025-10-02 23:14:24 INFO  [TransferFundsTest] Entering transfer details
+2025-10-02 23:14:31 INFO  [TransferFundsTest] Starting transfer test with data - Amount: 100, From: 12345, To: 15897
+2025-10-02 23:14:31 INFO  [TransferFundsTest] Logging in with user: lolo
+2025-10-02 23:14:32 INFO  [TransferFundsTest] Entering transfer details
+2025-10-02 23:14:39 INFO  [TransferFundsTest] Starting transfer test with data - Amount: 100, From: 12345, To: 15897
+2025-10-02 23:14:39 INFO  [TransferFundsTest] Logging in with user: lolo
+2025-10-02 23:14:39 INFO  [TransferFundsTest] Entering transfer details
+2025-10-02 23:14:46 INFO  [TransferFundsTest] Starting transfer test with data - Amount: 100, From: 12345, To: 15897
+2025-10-02 23:14:46 INFO  [TransferFundsTest] Logging in with user: lolo
+2025-10-02 23:14:46 INFO  [TransferFundsTest] Entering transfer details
+2025-10-02 23:14:53 INFO  [TransferFundsTest] Starting transfer test with data - Amount: -500, From: 12345, To: 54321
+2025-10-02 23:14:53 INFO  [TransferFundsTest] Logging in with user: lolo
+2025-10-02 23:14:53 INFO  [TransferFundsTest] Entering transfer details
+2025-10-02 23:15:00 INFO  [TransferFundsTest] Starting transfer test with data - Amount: -500, From: 12345, To: 54321
+2025-10-02 23:15:00 INFO  [TransferFundsTest] Logging in with user: lolo
+2025-10-02 23:15:00 INFO  [TransferFundsTest] Entering transfer details
+2025-10-02 23:15:06 INFO  [TransferFundsTest] Starting transfer test with data - Amount: -500, From: 12345, To: 54321
+2025-10-02 23:15:06 INFO  [TransferFundsTest] Logging in with user: lolo
+2025-10-02 23:15:07 INFO  [TransferFundsTest] Entering transfer details
+2025-10-02 23:15:14 INFO  [TransferFundsTest] Starting transfer test with data - Amount: , From: 12345, To: 15897
+2025-10-02 23:15:14 INFO  [TransferFundsTest] Logging in with user: lolo
+2025-10-02 23:15:14 INFO  [TransferFundsTest] Entering transfer details
+2025-10-02 23:15:21 INFO  [TransferFundsTest] Starting transfer test with data - Amount: , From: 12345, To: 15897
+2025-10-02 23:15:21 INFO  [TransferFundsTest] Logging in with user: lolo
+2025-10-02 23:15:22 INFO  [TransferFundsTest] Entering transfer details
+2025-10-02 23:15:28 INFO  [TransferFundsTest] Starting transfer test with data - Amount: , From: 12345, To: 15897
+2025-10-02 23:15:28 INFO  [TransferFundsTest] Logging in with user: lolo
+2025-10-02 23:15:29 INFO  [TransferFundsTest] Entering transfer details
+2025-10-02 23:15:36 INFO  [BillPayTest] Starting Bill Payment Test (Valid + Invalid data)
+2025-10-02 23:15:36 INFO  [BillPayTest] Logging in with username: lolo
+2025-10-02 23:15:37 INFO  [BillPayTest] Loading test data...
+2025-10-02 23:15:37 INFO  [BillPayTest] Running Valid Bill Payments...
+2025-10-02 23:15:37 INFO  [BillPayTest] Testing valid payment for payee: John Doe
+2025-10-02 23:15:54 INFO  [BillPayTest] Starting Bill Payment Test (Valid + Invalid data)
+2025-10-02 23:15:54 INFO  [BillPayTest] Logging in with username: lolo
+2025-10-02 23:15:54 INFO  [BillPayTest] Loading test data...
+2025-10-02 23:15:54 INFO  [BillPayTest] Running Valid Bill Payments...
+2025-10-02 23:15:54 INFO  [BillPayTest] Testing valid payment for payee: John Doe
+2025-10-02 23:16:13 INFO  [BillPayTest] Starting Bill Payment Test (Valid + Invalid data)
+2025-10-02 23:16:13 INFO  [BillPayTest] Logging in with username: lolo
+2025-10-02 23:16:13 INFO  [BillPayTest] Loading test data...
+2025-10-02 23:16:13 INFO  [BillPayTest] Running Valid Bill Payments...
+2025-10-02 23:16:13 INFO  [BillPayTest] Testing valid payment for payee: John Doe

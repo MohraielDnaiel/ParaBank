@@ -13,14 +13,8 @@ public class RegisterTest extends Base {
 
 
         RegisterPage registerPage = new RegisterPage(driver);
-
-        // Fill form
         registerPage.fillRegistrationForm(fName, lName, addr, city, state, zip, phone, ssn, uname, pwd, confirmPwd);
-
-        // Submit
         registerPage.clickRegister();
-
-        // Validate
         Assert.assertTrue(registerPage.isRegistrationSuccessful(), "Registration failed!");
     }
 }

@@ -61,6 +61,11 @@ public class BillPayPage {
         amountField.sendKeys(amount);
     }
 
+    public boolean isErrorMessageDisplayed() {
+        return driver.getPageSource().contains("error") ||
+                driver.findElements(By.className("error")).size() > 0;
+    }
+
     public void selectFromAccount(String accountNumber) {
         WebElement dropdown = wait.until(ExpectedConditions.elementToBeClickable(fromAccountDropdown));
         Select select = new Select(dropdown);
