@@ -203,8 +203,7 @@ mvn clean test
 - Transfer valid amount → Balance should decrease in From Account and increase in To Account.  
 
 ### ❌ Negative Tests
-- Enter **negative amount** → System should reject.  
-- Enter **amount greater than balance** → Show insufficient funds error.  
+- Enter **negative amount** → System should reject.   
 - Leave **amount field empty** → Show validation error.   
 
 ---
@@ -227,7 +226,7 @@ mvn clean test
 ### ❌ Negative Tests
 - Leave any mandatory field (payee name, account number, amount) empty → Validation error.  
 - Enter **invalid account number** → Payment should fail.  
-- Try payment with **amount greater than balance** → Show insufficient funds error.  
+
 
 
 
