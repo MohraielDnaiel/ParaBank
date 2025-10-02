@@ -1,0 +1,15 @@
+[
+  { "username": "Mohra", "password": "Password", "valid": true },
+  { "username": "Danial", "password": "Pass@123", "valid": true },
+  { "username": "user2", "password": "wrongpass", "valid": false },
+  { "username": "invalidUser", "password": "pass3", "valid": false },
+  { "username": "", "password": "Password", "valid": false },
+  { "username": "lolo", "password": "", "valid": false },
+  { "username": "", "password": "", "valid": false },
+  { "username": " lolo ", "password": "Password", "valid": false },
+  { "username": "lolo", "password": "Password ", "valid": false },
+  { "username": "LOLO", "password": "Password", "valid": false },
+  { "username": "lolo", "password": "PASSWORD", "valid": false },
+  { "username": "'; DROP TABLE users; --", "password": "x", "valid": false },
+  { "username": "<script>alert(1)</script>", "password": "x", "valid": false }
+]
