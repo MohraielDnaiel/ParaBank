@@ -108,7 +108,7 @@ allure generate
 
 ## 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-repo/Demoblaze_Project.git](https://github.com/MohraielDnaiel/ParaBank.git)
+git clone https://github.com/MohraielDnaiel/ParaBank.git
 ```
 ```bash
 cd BaraBank
